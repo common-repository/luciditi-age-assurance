@@ -1,0 +1,24 @@
+{
+  "name": "luciditi-age-assurance",
+  "version": "1.0.2",
+  "description": "Luciditi Age Assurance WordPress Plugin",
+  "scripts": {
+    "watch": "grunt watch",
+    "dev": "grunt --build=dev",
+    "build": "grunt --build=production",
+    "uat": "grunt --build=production --env=uat"
+  },
+  "devDependencies": {
+    "@lodder/grunt-postcss": "^3.1.1",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.14.0",
+    "grunt": "^1.5.3",
+    "grunt-contrib-clean": "2.0.0",
+    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-contrib-uglify": "^5.2.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-text-replace": "^0.4.0",
+    "grunt-wp-i18n": "^1.0.3",
+    "postcss": "^8.4.32"
+  }
+}

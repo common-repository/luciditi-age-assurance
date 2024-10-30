@@ -1,0 +1,129 @@
+  <svg
+    id="Layer_1"
+    data-name="Layer 1"
+    viewBox="0 0 504.06 121.75"
+    version="1.1"
+    sodipodi:docname="Luciditi.svg"
+    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+  >
+    <sodipodi:namedview
+      id="namedview884"
+      pagecolor="#000fff"
+      bordercolor="#666666"
+      borderopacity="1.0"
+      inkscape:pageshadow="2"
+      inkscape:pageopacity="0"
+      inkscape:pagecheckerboard="0"
+      showgrid="false"
+      inkscape:zoom="3.5928263"
+      inkscape:cx="264.55495"
+      inkscape:cy="59.563136"
+      inkscape:window-width="2560"
+      inkscape:window-height="1369"
+      inkscape:window-x="-8"
+      inkscape:window-y="-8"
+      inkscape:window-maximized="1"
+      inkscape:current-layer="Layer_1"
+    />
+    <defs id="defs857">
+      <svg:style id="style855" type="text/css">
+        .cls-1 {
+          fill: #000;
+        }
+        .cls-2 {
+          fill: #27ffc6;
+        }
+        .cls-3 {
+          fill: #337dff;
+        }
+        .cls-4 {
+          fill: #33e2ff;
+        }
+      </svg:style>
+    </defs>
+    <title id="title859">Luciditi</title>
+    <path
+      class="cls-1"
+      d="M211.87,77.38H189.5v-37a2,2,0,0,0-2-2h-.14a2,2,0,0,0-2,2V81a.5.5,0,0,0,.5.5h26.07a2.07,2.07,0,0,0,0-4.14Z"
+      id="path861"
+    />
+    <path
+      class="cls-1"
+      d="M262.89,38.32h-.13a2,2,0,0,0-2,2V65c0,8.17-5.36,13.25-14,13.25s-14-5.08-14-13.25V40.35a2,2,0,0,0-2-2h-.13a2,2,0,0,0-2,2V65.06c0,10.49,7.14,17.27,18.19,17.27s18.19-6.78,18.19-17.27V40.35A2,2,0,0,0,262.89,38.32Z"
+      id="path863"
+    />
+    <rect
+      class="cls-1"
+      x="343.69"
+      y="38.32"
+      width="4.19"
+      height="43.2"
+      rx="2.03"
+      ry="2.03"
+      id="rect865"
+    />
+    <path
+      class="cls-1"
+      d="M386.77,38.32h-15a2,2,0,0,0,0,4.07l14.82.07c9.78,0,16.11,6.85,16.11,17.46s-6.33,17.46-16.11,17.46H371.8a2,2,0,0,0-2,2v.08a2,2,0,0,0,2,2h15c12.23,0,20.14-8.48,20.14-21.6S399,38.32,386.77,38.32Z"
+      id="path867"
+    />
+    <rect
+      class="cls-1"
+      x="426.1"
+      y="38.32"
+      width="4.19"
+      height="43.2"
+      rx="2.03"
+      ry="2.03"
+      id="rect869"
+    />
+    <path
+      class="cls-1"
+      d="M480.2,38.32H449.61a2.07,2.07,0,0,0,0,4.14h13.17v37a2,2,0,0,0,2,2h.13a2,2,0,0,0,2-2v-37H480.2a2.07,2.07,0,0,0,0-4.14Z"
+      id="path871"
+    />
+    <rect
+      class="cls-1"
+      x="499.58"
+      y="38.32"
+      width="4.19"
+      height="43.2"
+      rx="2.03"
+      ry="2.03"
+      id="rect873"
+    />
+    <path
+      class="cls-1"
+      d="M318.36,38.32h-15c-12.24,0-20.15,8.48-20.15,21.6s7.91,21.6,20.15,21.6h15a2,2,0,0,0,0-4.07l-14.82-.06c-9.79,0-16.11-6.86-16.11-17.47s6.32-17.46,16.11-17.46h14.81a2,2,0,0,0,2-2v-.08A2,2,0,0,0,318.36,38.32Z"
+      id="path875"
+    />
+    <path
+      class="cls-2"
+      d="M30.27,30.27H4a4,4,0,0,0-4,4v82.81a4,4,0,0,0,4,4H86.81a4,4,0,0,0,4-4V90.81H34.27a4,4,0,0,1-4-4Z"
+      id="path877"
+    />
+    <path
+      class="cls-3"
+      d="M60.54,60.54V30.27H30.27V86.81a4,4,0,0,0,4,4H90.81V60.54Z"
+      id="path879"
+    />
+    <path
+      class="cls-4"
+      d="M60.54,0H34.27a4,4,0,0,0-4,4V30.27H86.81a4,4,0,0,1,4,4V90.81h26.27a4,4,0,0,0,4-4V4a4,4,0,0,0-4-4Z"
+      id="path881"
+    />
+    <metadata id="metadata966">
+      <rdf:RDF>
+        <cc:Work rdf:about="">
+          <dc:title>Artboard 17</dc:title>
+        </cc:Work>
+      </rdf:RDF>
+    </metadata>
+  </svg>
